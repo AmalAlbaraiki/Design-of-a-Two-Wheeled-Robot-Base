@@ -26,4 +26,4 @@ Tests were conducted on the structure to ensure it remains strong and capable of
 7. Conclusion:
 The two-wheeled robot base was successfully designed so that its weight does not exceed 13 grams, and the required dimensions were met precisely. The compact and lightweight structure made from ABS M30 ensures that the robot will perform efficiently while maintaining stability and ease of movement.
 ________________________________________
- 
+[ ](https://cad.onshape.com/documents/427d366eefb328116bcac3d6/w/61b19ca19dc6121d3a1bc0ca/e/929fec8c7d484345d2688150?renderMode=0&uiState=679baa45434cf82ea78e06f9)
